@@ -6,7 +6,9 @@ title: Sundered Scales Campaign Home
 
 - [DM Philosophy](https://steven-stanford.github.io/sundered-scales-campaign/docs/dm-philosophy)
 - [Code of Conduct](https://steven-stanford.github.io/sundered-scales-campaign/docs/code-of-conduct)
+	- Lines & Veils (TBD)
 - [World & Campaign](https://steven-stanford.github.io/sundered-scales-campaign/docs/world-and-campaign)
+	- Campaign Maps
 - Game Rules & Mechanics
 - Character Creation
 
