@@ -1,9 +1,9 @@
 ---
 share: "true"
 path: docs
-title: dm-philosophy
+title: DM Philosophy
 ---
-# **DM Philosophy**
+Back to [Index](https://steven-stanford.github.io/sundered-scales-campaign/index)
 
 My primary job as the DM is to ensure everyone at the table has a fun, engaging, and interesting experience. However the DM also acts as a deity, judge, interpreter, and story guide.
 
