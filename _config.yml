@@ -1,5 +1,5 @@
 title: Sundered Scales D&D Campaign
 description: This is the player site for our groups Sundered Scales D&D Campaign.
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
