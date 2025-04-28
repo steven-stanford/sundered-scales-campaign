@@ -3,7 +3,7 @@ share: "true"
 path: docs
 title: World & Campaign
 ---
-# **World & Campaign**
+Back to [Index](https://steven-stanford.github.io/sundered-scales-campaign/index)
 
 Wherein we find out what this is all about...
 
