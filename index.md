@@ -6,6 +6,9 @@ title: index
 
 - [DM Philosophy](https://steven-stanford.github.io/sundered-scales-campaign/docs/dm-philosophy)
 - [Code of Conduct](https://steven-stanford.github.io/sundered-scales-campaign/docs/code-of-conduct)
+- [World & Campaign](https://steven-stanford.github.io/sundered-scales-campaign/docs/world-and-campaign)
+- Game Rules & Mechanics
+- Character Creation
 
 # Session Summaries
 
