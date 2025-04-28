@@ -1,8 +1,7 @@
 ---
 share: "true"
 path: docs
-title: world-and-campaign
-page.title: '"World & Campaign"'
+title: World & Campaign
 ---
 # **World & Campaign**
 
