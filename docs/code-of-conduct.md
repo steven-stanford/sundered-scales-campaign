@@ -5,6 +5,8 @@ title: Code of Conduct
 ---
 Back to [Index](https://steven-stanford.github.io/sundered-scales-campaign/index)
 
+# Code of Conduct
+
 Wherein we discuss conduct rules, establish expectations for behavior at the table, and identify any potentially sensitive or out-of-bound topics or ethical concerns...as well as methods to address them.
 
 ## General Conduct Rules
