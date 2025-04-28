@@ -1,9 +1,9 @@
 ---
 share: "true"
 path: docs
-title: code-of-conduct
+title: Code of Conduct
 ---
-# **Code of Conduct**
+Back to [Index](https://steven-stanford.github.io/sundered-scales-campaign/index)
 
 Wherein we discuss conduct rules, establish expectations for behavior at the table, and identify any potentially sensitive or out-of-bound topics or ethical concerns...as well as methods to address them.
 
