@@ -1,8 +1,10 @@
 ---
 share: "true"
 path: sessions
-title: sample-session
+title: Sample Session
 ---
+Back to [Index](https://steven-stanford.github.io/sundered-scales-campaign/index)
+
 # Session Summary
 
 - Date:
