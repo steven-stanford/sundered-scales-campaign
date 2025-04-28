@@ -5,6 +5,8 @@ title: World & Campaign
 ---
 Back to [Index](https://steven-stanford.github.io/sundered-scales-campaign/index)
 
+# World & Campaign
+
 Wherein we find out what this is all about...
 
 - **World Setting** - Veldoria is a world rich with life and magic, and not all of it is friendly. Nature started drinking mana potions and may have gotten a little tipsy. There are tame regions around the cities and villages, but stray too far into the wilds and you will need backup...sometimes LOTS of backup.
