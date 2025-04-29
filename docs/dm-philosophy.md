@@ -3,7 +3,7 @@ share: "true"
 path: docs
 title: DM Philosophy
 ---
-Back to [Index](https://steven-stanford.github.io/sundered-scales-campaign/index)
+Back to [Home](https://steven-stanford.github.io/sundered-scales-campaign/index)
 
 # DM Philosophy
 
