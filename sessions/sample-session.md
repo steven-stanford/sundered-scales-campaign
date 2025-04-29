@@ -3,7 +3,7 @@ share: "true"
 path: sessions
 title: Sample Session
 ---
-Back to [Index](https://steven-stanford.github.io/sundered-scales-campaign/index)
+Back to [Home](https://steven-stanford.github.io/sundered-scales-campaign/index)
 
 # Sample Session Summary
 
