@@ -8,7 +8,7 @@ title: Sundered Scales Campaign Home
 - [Code of Conduct](https://steven-stanford.github.io/sundered-scales-campaign/docs/code-of-conduct)
 	- Lines & Veils (TBD)
 - [World & Campaign](https://steven-stanford.github.io/sundered-scales-campaign/docs/world-and-campaign)
-	- Campaign Maps
+	- [Campaign Maps](https://steven-stanford.github.io/sundered-scales-campaign/docs/campaign-maps)
 - Game Rules & Mechanics
 - Character Creation
 
