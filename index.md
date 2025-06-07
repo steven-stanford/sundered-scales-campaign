@@ -9,7 +9,7 @@ title: Sundered Scales Campaign Home
 	- Lines & Veils (TBD)
 - [World & Campaign](https://steven-stanford.github.io/sundered-scales-campaign/docs/world-and-campaign)
 	- [Campaign Maps](https://steven-stanford.github.io/sundered-scales-campaign/docs/campaign-maps)
-- Game Rules & Mechanics
+- [Game Rules & Mechanics](https://steven-stanford.github.io/sundered-scales-campaign/docs/game-rules-and-mechanics)
 - Character Creation
 
 # Session Summaries
