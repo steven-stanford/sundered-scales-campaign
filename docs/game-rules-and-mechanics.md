@@ -167,6 +167,7 @@ I am not normally a stickler for encumbrance tracking. If I think characters are
 I view vendors, information brokers, sponsors and patrons as "role-playing opportunities" and do not put fixed mechanics in place regarding their interaction. Is that vendor overcharging you? That's for you to figure out and haggle. Want your patrons help with something? Stay on his good side. Proper role-play will be rewarded.
 
 - **Renown/Piety (DMG, p. 22 Option)** - We will be using the optional Renown & Piety systems to track how much influence a character has with and organization or, if religious, their relation to their deity. This will have role-playing impact on interactions (DM judgement) and in the case of clerics may impact spell availability. Don't get on your deity's bad side.
+- **"I Know A Guy" (House Rule)** - Once per campaign, when the party faces a particular problem, a player can declare "I know a guy...". We will use specific tokens to indicate if a player has used this house rule, which must be given up once used. The player then quickly provides a brief description of this NPC and their relationship to the character. This should be concise, focusing on _how_ they know them and _why_ they might be able to help. The DM then takes this newly created NPC and integrates them into the world. The DM determines the NPC's personality, exact location, and whether they are genuinely willing or able to help (and at what cost or with what strings attached).
 
 ### Magic, Spells & Spell Effects
 
